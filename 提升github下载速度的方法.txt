@@ -2,7 +2,7 @@
 获取CDN域名以及ip地址1
 2.访问 http://github.com.ipaddress.com/#ipinfo 
 获取CDN域名以及ip地址2（正常情况下为192.30.253.112）
-3.在C:\Windows\System32\drivers\etc\hosts 文件末尾加上以下两句（xxx.xxx.xxx.xxx为ip地址1）：
+3.在C:\Windows\System32\drivers\etc\hosts 文件末尾添加以下两行（xxx.xxx.xxx.xxx为ip地址1）：
 xxx.xxx.xxx.xxx http://github.global.ssl.fastly.net 
 192.30.253.112 http://github.com
 4.最后打开CMD
