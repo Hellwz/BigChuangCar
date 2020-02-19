@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_893.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>474</width>
+        <height>715</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>烟蒂</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <polygon>
+            <x1>209</x1>
+            <y1>331</y1>
+            <x2>207</x2>
+            <y2>523</y2>
+            <x3>224</x3>
+            <y3>529</y3>
+            <x4>255</x4>
+            <y4>525</y4>
+            <x5>262</x5>
+            <y5>340</y5>
+            <x6>245</x6>
+            <y6>311</y6>
+            <x7>223</x7>
+            <y7>316</y7>
+            <x8>223</x8>
+            <y8>336</y8>
+            <x9>209</x9>
+            <y9>331</y9>
+        </polygon>
+    </object>
+</annotation>

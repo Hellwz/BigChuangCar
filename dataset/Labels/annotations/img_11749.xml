@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_11749.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1024</width>
+        <height>768</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>枕头</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <polygon>
+            <x1>37</x1>
+            <y1>198</y1>
+            <x2>936</x2>
+            <y2>146</y2>
+            <x3>1008</x3>
+            <y3>182</y3>
+            <x4>1000</x4>
+            <y4>634</y4>
+            <x5>993</x5>
+            <y5>689</y5>
+            <x6>915</x6>
+            <y6>707</y6>
+            <x7>62</x7>
+            <y7>715</y7>
+            <x8>19</x8>
+            <y8>639</y8>
+            <x9>28</x9>
+            <y9>440</y9>
+            <x10>3</x10>
+            <y10>267</y10>
+            <x11>37</x11>
+            <y11>198</y11>
+        </polygon>
+    </object>
+</annotation>

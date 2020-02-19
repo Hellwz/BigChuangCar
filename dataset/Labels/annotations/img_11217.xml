@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_11217.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>368</width>
+        <height>667</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>旧衣服</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <polygon>
+            <x1>1</x1>
+            <y1>57</y1>
+            <x2>21</x2>
+            <y2>57</y2>
+            <x3>46</x3>
+            <y3>51</y3>
+            <x4>68</x4>
+            <y4>38</y4>
+            <x5>184</x5>
+            <y5>29</y5>
+            <x6>197</x6>
+            <y6>6</y6>
+            <x7>323</x7>
+            <y7>5</y7>
+            <x8>331</x8>
+            <y8>27</y8>
+            <x9>362</x9>
+            <y9>19</y9>
+            <x10>360</x10>
+            <y10>667</y10>
+            <x11>2</x11>
+            <y11>662</y11>
+            <x12>1</x12>
+            <y12>57</y12>
+        </polygon>
+    </object>
+</annotation>

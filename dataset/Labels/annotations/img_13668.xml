@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_13668.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>577</width>
+        <height>1024</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>玻璃杯</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>106</xmin>
+            <ymin>327</ymin>
+            <xmax>269</xmax>
+            <ymax>675</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>玻璃杯</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>276</xmin>
+            <ymin>327</ymin>
+            <xmax>454</xmax>
+            <ymax>621</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_1021.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>234</width>
+        <height>220</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>烟蒂</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <polygon>
+            <x1>109</x1>
+            <y1>81</y1>
+            <x2>153</x2>
+            <y2>96</y2>
+            <x3>169</x3>
+            <y3>95</y3>
+            <x4>216</x4>
+            <y4>111</y4>
+            <x5>223</x5>
+            <y5>107</y5>
+            <x6>227</x6>
+            <y6>99</y6>
+            <x7>222</x7>
+            <y7>90</y7>
+            <x8>173</x8>
+            <y8>74</y8>
+            <x9>155</x9>
+            <y9>72</y9>
+            <x10>114</x10>
+            <y10>60</y10>
+            <x11>107</x11>
+            <y11>64</y11>
+            <x12>109</x12>
+            <y12>81</y12>
+        </polygon>
+    </object>
+</annotation>

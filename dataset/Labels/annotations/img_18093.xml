@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_18093.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>577</width>
+        <height>1024</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>饮料瓶</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <polygon>
+            <x1>248</x1>
+            <y1>305</y1>
+            <x2>251</x2>
+            <y2>347</y2>
+            <x3>263</x3>
+            <y3>384</y3>
+            <x4>221</x4>
+            <y4>546</y4>
+            <x5>242</x5>
+            <y5>597</y5>
+            <x6>332</x6>
+            <y6>618</y6>
+            <x7>370</x7>
+            <y7>540</y7>
+            <x8>336</x8>
+            <y8>396</y8>
+            <x9>347</x9>
+            <y9>336</y9>
+            <x10>326</x10>
+            <y10>295</y10>
+            <x11>282</x11>
+            <y11>284</y11>
+            <x12>248</x12>
+            <y12>305</y12>
+        </polygon>
+    </object>
+</annotation>

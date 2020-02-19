@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_11421.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>537</width>
+        <height>648</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>易拉罐</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>134</xmin>
+            <ymin>382</ymin>
+            <xmax>312</xmax>
+            <ymax>624</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>易拉罐</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>127</xmin>
+            <ymin>50</ymin>
+            <xmax>350</xmax>
+            <ymax>401</ymax>
+        </bndbox>
+    </object>
+</annotation>

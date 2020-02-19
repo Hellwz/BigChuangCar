@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_4752.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>671</width>
+        <height>521</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>茶叶渣</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <polygon>
+            <x1>450</x1>
+            <y1>5</y1>
+            <x2>663</x2>
+            <y2>112</y2>
+            <x3>670</x3>
+            <y3>517</y3>
+            <x4>6</x4>
+            <y4>521</y4>
+            <x5>0</x5>
+            <y5>5</y5>
+            <x6>450</x6>
+            <y6>5</y6>
+        </polygon>
+    </object>
+</annotation>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_18040.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>577</width>
+        <height>1024</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>饮料瓶</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <polygon>
+            <x1>138</x1>
+            <y1>399</y1>
+            <x2>167</x2>
+            <y2>407</y2>
+            <x3>259</x3>
+            <y3>525</y3>
+            <x4>300</x4>
+            <y4>540</y4>
+            <x5>324</x5>
+            <y5>574</y5>
+            <x6>379</x6>
+            <y6>527</y6>
+            <x7>357</x7>
+            <y7>498</y7>
+            <x8>319</x8>
+            <y8>425</y8>
+            <x9>214</x9>
+            <y9>331</y9>
+            <x10>203</x10>
+            <y10>315</y10>
+            <x11>138</x11>
+            <y11>399</y11>
+        </polygon>
+    </object>
+</annotation>

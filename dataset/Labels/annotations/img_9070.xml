@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_9070.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>500</width>
+        <height>500</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>塑料碗盆</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <polygon>
+            <x1>31</x1>
+            <y1>189</y1>
+            <x2>28</x2>
+            <y2>265</y2>
+            <x3>8</x3>
+            <y3>277</y3>
+            <x4>11</x4>
+            <y4>299</y4>
+            <x5>210</x5>
+            <y5>407</y5>
+            <x6>272</x6>
+            <y6>404</y6>
+            <x7>470</x7>
+            <y7>236</y7>
+            <x8>472</x8>
+            <y8>216</y8>
+            <x9>462</x9>
+            <y9>209</y9>
+            <x10>458</x10>
+            <y10>136</y10>
+            <x11>281</x11>
+            <y11>82</y11>
+            <x12>31</x12>
+            <y12>189</y12>
+        </polygon>
+    </object>
+</annotation>

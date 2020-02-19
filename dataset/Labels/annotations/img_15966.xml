@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_15966.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>191</width>
+        <height>835</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>调料瓶</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <polygon>
+            <x1>44</x1>
+            <y1>21</y1>
+            <x2>49</x2>
+            <y2>119</y2>
+            <x3>3</x3>
+            <y3>452</y3>
+            <x4>0</x4>
+            <y4>792</y4>
+            <x5>20</x5>
+            <y5>813</y5>
+            <x6>176</x6>
+            <y6>805</y6>
+            <x7>169</x7>
+            <y7>263</y7>
+            <x8>160</x8>
+            <y8>131</y8>
+            <x9>157</x9>
+            <y9>32</y9>
+            <x10>119</x10>
+            <y10>17</y10>
+            <x11>85</x11>
+            <y11>13</y11>
+            <x12>44</x12>
+            <y12>21</y12>
+        </polygon>
+    </object>
+</annotation>

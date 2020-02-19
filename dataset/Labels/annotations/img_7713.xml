@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_7713.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>676</width>
+        <height>484</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>包</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <polygon>
+            <x1>4</x1>
+            <y1>249</y1>
+            <x2>43</x2>
+            <y2>479</y2>
+            <x3>235</x3>
+            <y3>484</y3>
+            <x4>630</x4>
+            <y4>435</y4>
+            <x5>651</x5>
+            <y5>399</y5>
+            <x6>662</x6>
+            <y6>12</y6>
+            <x7>5</x7>
+            <y7>44</y7>
+            <x8>4</x8>
+            <y8>249</y8>
+        </polygon>
+    </object>
+</annotation>

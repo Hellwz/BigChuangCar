@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_13433.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>750</width>
+        <height>563</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>玻璃杯</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>138</xmin>
+            <ymin>218</ymin>
+            <xmax>437</xmax>
+            <ymax>478</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>玻璃杯</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>443</xmin>
+            <ymin>213</ymin>
+            <xmax>743</xmax>
+            <ymax>473</ymax>
+        </bndbox>
+    </object>
+</annotation>

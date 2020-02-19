@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_14322.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>225</width>
+        <height>400</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>皮鞋</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <polygon>
+            <x1>4</x1>
+            <y1>315</y1>
+            <x2>13</x2>
+            <y2>227</y2>
+            <x3>102</x3>
+            <y3>69</y3>
+            <x4>124</x4>
+            <y4>61</y4>
+            <x5>150</x5>
+            <y5>61</y5>
+            <x6>180</x6>
+            <y6>81</y6>
+            <x7>192</x7>
+            <y7>108</y7>
+            <x8>211</x8>
+            <y8>259</y8>
+            <x9>182</x9>
+            <y9>399</y9>
+            <x10>2</x10>
+            <y10>397</y10>
+            <x11>4</x11>
+            <y11>315</y11>
+        </polygon>
+    </object>
+</annotation>

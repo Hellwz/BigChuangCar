@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_8638.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>477</width>
+        <height>1024</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>塑料玩具</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <polygon>
+            <x1>8</x1>
+            <y1>404</y1>
+            <x2>155</x2>
+            <y2>412</y2>
+            <x3>208</x3>
+            <y3>487</y3>
+            <x4>278</x4>
+            <y4>573</y4>
+            <x5>242</x5>
+            <y5>783</y5>
+            <x6>190</x6>
+            <y6>846</y6>
+            <x7>145</x7>
+            <y7>854</y7>
+            <x8>80</x8>
+            <y8>831</y8>
+            <x9>3</x9>
+            <y9>849</y9>
+            <x10>8</x10>
+            <y10>404</y10>
+        </polygon>
+    </object>
+</annotation>

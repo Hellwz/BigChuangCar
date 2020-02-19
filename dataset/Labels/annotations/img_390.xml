@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_390.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1024</width>
+        <height>768</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>污损塑料</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <polygon>
+            <x1>104</x1>
+            <y1>6</y1>
+            <x2>80</x2>
+            <y2>32</y2>
+            <x3>55</x3>
+            <y3>79</y3>
+            <x4>43</x4>
+            <y4>147</y4>
+            <x5>10</x5>
+            <y5>223</y5>
+            <x6>5</x6>
+            <y6>399</y6>
+            <x7>1</x7>
+            <y7>654</y7>
+            <x8>18</x8>
+            <y8>704</y8>
+            <x9>74</x9>
+            <y9>766</y9>
+            <x10>1016</x10>
+            <y10>768</y10>
+            <x11>1014</x11>
+            <y11>0</y11>
+            <x12>104</x12>
+            <y12>6</y12>
+        </polygon>
+    </object>
+</annotation>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_953.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>242</width>
+        <height>187</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>烟蒂</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>22</xmin>
+            <ymin>28</ymin>
+            <xmax>97</xmax>
+            <ymax>123</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>烟蒂</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>116</xmin>
+            <ymin>59</ymin>
+            <xmax>214</xmax>
+            <ymax>120</ymax>
+        </bndbox>
+    </object>
+</annotation>

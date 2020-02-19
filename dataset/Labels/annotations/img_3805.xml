@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_3805.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>302</width>
+        <height>169</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>水果果肉</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>97</xmin>
+            <ymin>10</ymin>
+            <xmax>232</xmax>
+            <ymax>68</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>水果果肉</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>62</xmin>
+            <ymin>37</ymin>
+            <xmax>205</xmax>
+            <ymax>118</ymax>
+        </bndbox>
+    </object>
+</annotation>

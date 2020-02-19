@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_723.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>577</width>
+        <height>1024</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>化妆品瓶</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <polygon>
+            <x1>381</x1>
+            <y1>283</y1>
+            <x2>137</x2>
+            <y2>567</y2>
+            <x3>310</x3>
+            <y3>725</y3>
+            <x4>519</x4>
+            <y4>416</y4>
+            <x5>381</x5>
+            <y5>283</y5>
+        </polygon>
+    </object>
+</annotation>

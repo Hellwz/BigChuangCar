@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_197.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>432</width>
+        <height>598</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>一次性快餐盒</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <polygon>
+            <x1>92</x1>
+            <y1>25</y1>
+            <x2>51</x2>
+            <y2>46</y2>
+            <x3>28</x3>
+            <y3>82</y3>
+            <x4>23</x4>
+            <y4>546</y4>
+            <x5>46</x5>
+            <y5>596</y5>
+            <x6>383</x6>
+            <y6>596</y6>
+            <x7>418</x7>
+            <y7>552</y7>
+            <x8>405</x8>
+            <y8>87</y8>
+            <x9>343</x9>
+            <y9>21</y9>
+            <x10>92</x10>
+            <y10>25</y10>
+        </polygon>
+    </object>
+</annotation>

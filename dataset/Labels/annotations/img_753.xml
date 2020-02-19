@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_753.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>577</width>
+        <height>1024</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>污损塑料</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <polygon>
+            <x1>7</x1>
+            <y1>294</y1>
+            <x2>117</x2>
+            <y2>219</y2>
+            <x3>571</x3>
+            <y3>143</y3>
+            <x4>550</x4>
+            <y4>820</y4>
+            <x5>115</x5>
+            <y5>859</y5>
+            <x6>44</x6>
+            <y6>754</y6>
+            <x7>15</x7>
+            <y7>684</y7>
+            <x8>2</x8>
+            <y8>640</y8>
+            <x9>7</x9>
+            <y9>294</y9>
+        </polygon>
+    </object>
+</annotation>

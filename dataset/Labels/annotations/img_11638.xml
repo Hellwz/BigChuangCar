@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_11638.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>577</width>
+        <height>1024</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>易拉罐</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <polygon>
+            <x1>148</x1>
+            <y1>571</y1>
+            <x2>187</x2>
+            <y2>526</y2>
+            <x3>269</x3>
+            <y3>347</y3>
+            <x4>314</x4>
+            <y4>326</y4>
+            <x5>348</x5>
+            <y5>347</y5>
+            <x6>377</x6>
+            <y6>405</y6>
+            <x7>317</x7>
+            <y7>610</y7>
+            <x8>271</x8>
+            <y8>642</y8>
+            <x9>204</x9>
+            <y9>640</y9>
+            <x10>177</x10>
+            <y10>608</y10>
+            <x11>148</x11>
+            <y11>571</y11>
+        </polygon>
+    </object>
+</annotation>

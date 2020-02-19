@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_8140.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>257</width>
+        <height>172</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>化妆品瓶</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <polygon>
+            <x1>89</x1>
+            <y1>17</y1>
+            <x2>81</x2>
+            <y2>27</y2>
+            <x3>80</x3>
+            <y3>134</y3>
+            <x4>89</x4>
+            <y4>155</y4>
+            <x5>157</x5>
+            <y5>158</y5>
+            <x6>159</x6>
+            <y6>155</y6>
+            <x7>200</x7>
+            <y7>154</y7>
+            <x8>198</x8>
+            <y8>17</y8>
+            <x9>158</x9>
+            <y9>15</y9>
+            <x10>151</x10>
+            <y10>10</y10>
+            <x11>89</x11>
+            <y11>17</y11>
+        </polygon>
+    </object>
+</annotation>

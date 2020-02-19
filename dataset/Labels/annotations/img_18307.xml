@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_18307.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>202</width>
+        <height>347</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>干电池</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <polygon>
+            <x1>99</x1>
+            <y1>39</y1>
+            <x2>64</x2>
+            <y2>56</y2>
+            <x3>110</x3>
+            <y3>312</y3>
+            <x4>135</x4>
+            <y4>321</y4>
+            <x5>164</x5>
+            <y5>320</y5>
+            <x6>186</x6>
+            <y6>302</y6>
+            <x7>177</x7>
+            <y7>53</y7>
+            <x8>155</x8>
+            <y8>40</y8>
+            <x9>125</x9>
+            <y9>32</y9>
+            <x10>99</x10>
+            <y10>39</y10>
+        </polygon>
+    </object>
+</annotation>

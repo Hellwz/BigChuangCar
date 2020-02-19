@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_2323.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>750</width>
+        <height>1000</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>剩饭剩菜</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>13</xmin>
+            <ymin>242</ymin>
+            <xmax>727</xmax>
+            <ymax>811</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>竹筷</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>394</xmin>
+            <ymin>451</ymin>
+            <xmax>630</xmax>
+            <ymax>973</ymax>
+        </bndbox>
+    </object>
+</annotation>

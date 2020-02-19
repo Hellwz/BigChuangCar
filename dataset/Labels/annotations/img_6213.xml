@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_6213.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>519</width>
+        <height>365</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>蛋壳</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>219</xmin>
+            <ymin>88</ymin>
+            <xmax>369</xmax>
+            <ymax>282</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>蛋壳</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>78</xmin>
+            <ymin>90</ymin>
+            <xmax>234</xmax>
+            <ymax>282</ymax>
+        </bndbox>
+    </object>
+</annotation>

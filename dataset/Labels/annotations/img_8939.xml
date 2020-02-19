@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_8939.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>300</width>
+        <height>400</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>塑料碗盆</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <polygon>
+            <x1>75</x1>
+            <y1>208</y1>
+            <x2>86</x2>
+            <y2>194</y2>
+            <x3>166</x3>
+            <y3>165</y3>
+            <x4>184</x4>
+            <y4>172</y4>
+            <x5>229</x5>
+            <y5>242</y5>
+            <x6>222</x6>
+            <y6>253</y6>
+            <x7>128</x7>
+            <y7>301</y7>
+            <x8>113</x8>
+            <y8>289</y8>
+            <x9>75</x9>
+            <y9>208</y9>
+        </polygon>
+    </object>
+</annotation>

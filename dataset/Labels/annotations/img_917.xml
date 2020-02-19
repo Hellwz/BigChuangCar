@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_917.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>474</width>
+        <height>316</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>烟蒂</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <polygon>
+            <x1>102</x1>
+            <y1>205</y1>
+            <x2>153</x2>
+            <y2>156</y2>
+            <x3>303</x3>
+            <y3>129</y3>
+            <x4>330</x4>
+            <y4>168</y4>
+            <x5>315</x5>
+            <y5>183</y5>
+            <x6>200</x6>
+            <y6>198</y6>
+            <x7>177</x7>
+            <y7>209</y7>
+            <x8>165</x8>
+            <y8>202</y8>
+            <x9>165</x9>
+            <y9>234</y9>
+            <x10>126</x10>
+            <y10>229</y10>
+            <x11>102</x11>
+            <y11>205</y11>
+        </polygon>
+    </object>
+</annotation>

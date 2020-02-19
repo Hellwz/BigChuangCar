@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_10100.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>288</width>
+        <height>322</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>插头电线</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <polygon>
+            <x1>62</x1>
+            <y1>5</y1>
+            <x2>46</x2>
+            <y2>31</y2>
+            <x3>35</x3>
+            <y3>45</y3>
+            <x4>39</x4>
+            <y4>74</y4>
+            <x5>63</x5>
+            <y5>229</y5>
+            <x6>76</x6>
+            <y6>235</y6>
+            <x7>86</x7>
+            <y7>313</y7>
+            <x8>77</x8>
+            <y8>321</y8>
+            <x9>230</x9>
+            <y9>320</y9>
+            <x10>200</x10>
+            <y10>23</y10>
+            <x11>178</x11>
+            <y11>1</y11>
+            <x12>62</x12>
+            <y12>5</y12>
+        </polygon>
+    </object>
+</annotation>

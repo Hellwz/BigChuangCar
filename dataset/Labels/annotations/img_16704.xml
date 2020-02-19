@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_16704.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>361</width>
+        <height>369</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>金属食品罐</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <polygon>
+            <x1>112</x1>
+            <y1>44</y1>
+            <x2>135</x2>
+            <y2>348</y2>
+            <x3>156</x3>
+            <y3>369</y3>
+            <x4>236</x4>
+            <y4>368</y4>
+            <x5>257</x5>
+            <y5>346</y5>
+            <x6>268</x6>
+            <y6>36</y6>
+            <x7>239</x7>
+            <y7>20</y7>
+            <x8>207</x8>
+            <y8>15</y8>
+            <x9>180</x9>
+            <y9>15</y9>
+            <x10>155</x10>
+            <y10>15</y10>
+            <x11>131</x11>
+            <y11>23</y11>
+            <x12>112</x12>
+            <y12>44</y12>
+        </polygon>
+    </object>
+</annotation>

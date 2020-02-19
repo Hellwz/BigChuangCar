@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_2104.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1024</width>
+        <height>768</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>竹筷</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <polygon>
+            <x1>67</x1>
+            <y1>697</y1>
+            <x2>105</x2>
+            <y2>725</y2>
+            <x3>134</x3>
+            <y3>714</y3>
+            <x4>164</x4>
+            <y4>737</y4>
+            <x5>204</x5>
+            <y5>726</y5>
+            <x6>930</x6>
+            <y6>84</y6>
+            <x7>913</x7>
+            <y7>72</y7>
+            <x8>897</x8>
+            <y8>79</y8>
+            <x9>888</x9>
+            <y9>68</y9>
+            <x10>63</x10>
+            <y10>647</y10>
+            <x11>67</x11>
+            <y11>697</y11>
+        </polygon>
+    </object>
+</annotation>

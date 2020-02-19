@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_7897.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>600</width>
+        <height>800</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>化妆品瓶</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <polygon>
+            <x1>201</x1>
+            <y1>88</y1>
+            <x2>194</x2>
+            <y2>185</y2>
+            <x3>165</x3>
+            <y3>191</y3>
+            <x4>70</x4>
+            <y4>799</y4>
+            <x5>264</x5>
+            <y5>797</y5>
+            <x6>340</x6>
+            <y6>224</y6>
+            <x7>320</x7>
+            <y7>207</y7>
+            <x8>335</x8>
+            <y8>113</y8>
+            <x9>295</x9>
+            <y9>85</y9>
+            <x10>248</x10>
+            <y10>82</y10>
+            <x11>201</x11>
+            <y11>88</y11>
+        </polygon>
+    </object>
+</annotation>

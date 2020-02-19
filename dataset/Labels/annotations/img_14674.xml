@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_14674.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>768</width>
+        <height>1024</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>砧板</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <polygon>
+            <x1>68</x1>
+            <y1>3</y1>
+            <x2>18</x2>
+            <y2>1013</y2>
+            <x3>294</x3>
+            <y3>1024</y3>
+            <x4>411</x4>
+            <y4>1024</y4>
+            <x5>449</x5>
+            <y5>56</y5>
+            <x6>369</x6>
+            <y6>0</y6>
+            <x7>68</x7>
+            <y7>3</y7>
+        </polygon>
+    </object>
+</annotation>

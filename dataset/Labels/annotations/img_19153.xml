@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_19153.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>287</width>
+        <height>400</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>过期药物</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <polygon>
+            <x1>36</x1>
+            <y1>204</y1>
+            <x2>38</x2>
+            <y2>354</y2>
+            <x3>283</x3>
+            <y3>337</y3>
+            <x4>284</x4>
+            <y4>243</y4>
+            <x5>280</x5>
+            <y5>160</y5>
+            <x6>51</x6>
+            <y6>175</y6>
+            <x7>48</x7>
+            <y7>187</y7>
+            <x8>36</x8>
+            <y8>204</y8>
+        </polygon>
+    </object>
+</annotation>

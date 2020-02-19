@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_19485.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>300</width>
+        <height>400</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>过期药物</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <polygon>
+            <x1>47</x1>
+            <y1>187</y1>
+            <x2>140</x2>
+            <y2>345</y2>
+            <x3>247</x3>
+            <y3>276</y3>
+            <x4>152</x4>
+            <y4>123</y4>
+            <x5>47</x5>
+            <y5>187</y5>
+        </polygon>
+    </object>
+</annotation>

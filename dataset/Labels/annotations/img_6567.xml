@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_6567.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>884</width>
+        <height>555</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>鱼骨</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <polygon>
+            <x1>10</x1>
+            <y1>296</y1>
+            <x2>175</x2>
+            <y2>222</y2>
+            <x3>276</x3>
+            <y3>110</y3>
+            <x4>342</x4>
+            <y4>55</y4>
+            <x5>377</x5>
+            <y5>5</y5>
+            <x6>878</x6>
+            <y6>1</y6>
+            <x7>876</x7>
+            <y7>552</y7>
+            <x8>1</x8>
+            <y8>552</y8>
+            <x9>10</x9>
+            <y9>296</y9>
+        </polygon>
+    </object>
+</annotation>

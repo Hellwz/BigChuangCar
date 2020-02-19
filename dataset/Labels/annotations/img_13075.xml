@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_13075.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>225</width>
+        <height>400</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>洗发水瓶</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <polygon>
+            <x1>30</x1>
+            <y1>2</y1>
+            <x2>63</x2>
+            <y2>265</y2>
+            <x3>92</x3>
+            <y3>271</y3>
+            <x4>133</x4>
+            <y4>275</y4>
+            <x5>173</x5>
+            <y5>264</y5>
+            <x6>189</x6>
+            <y6>246</y6>
+            <x7>181</x7>
+            <y7>2</y7>
+            <x8>30</x8>
+            <y8>2</y8>
+        </polygon>
+    </object>
+</annotation>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_247.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>768</width>
+        <height>1024</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>一次性快餐盒</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>2</xmin>
+            <ymin>305</ymin>
+            <xmax>609</xmax>
+            <ymax>995</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>污损塑料</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>15</xmin>
+            <ymin>12</ymin>
+            <xmax>757</xmax>
+            <ymax>305</ymax>
+        </bndbox>
+    </object>
+</annotation>

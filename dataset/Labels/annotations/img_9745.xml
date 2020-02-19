@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_9745.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>481</width>
+        <height>299</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>快递纸袋</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <polygon>
+            <x1>0</x1>
+            <y1>137</y1>
+            <x2>197</x2>
+            <y2>84</y2>
+            <x3>197</x3>
+            <y3>81</y3>
+            <x4>245</x4>
+            <y4>46</y4>
+            <x5>263</x5>
+            <y5>44</y5>
+            <x6>271</x6>
+            <y6>42</y6>
+            <x7>276</x7>
+            <y7>54</y7>
+            <x8>272</x8>
+            <y8>65</y8>
+            <x9>346</x9>
+            <y9>47</y9>
+            <x10>420</x10>
+            <y10>296</y10>
+            <x11>0</x11>
+            <y11>299</y11>
+            <x12>0</x12>
+            <y12>137</y12>
+        </polygon>
+    </object>
+</annotation>

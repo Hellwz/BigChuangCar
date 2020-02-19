@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_14024.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>525</width>
+        <height>700</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>皮鞋</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>111</xmin>
+            <ymin>213</ymin>
+            <xmax>281</xmax>
+            <ymax>615</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>皮鞋</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>288</xmin>
+            <ymin>210</ymin>
+            <xmax>463</xmax>
+            <ymax>612</ymax>
+        </bndbox>
+    </object>
+</annotation>

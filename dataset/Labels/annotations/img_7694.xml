@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_7694.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>437</width>
+        <height>549</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>包</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <polygon>
+            <x1>65</x1>
+            <y1>22</y1>
+            <x2>21</x2>
+            <y2>433</y2>
+            <x3>45</x3>
+            <y3>469</y3>
+            <x4>94</x4>
+            <y4>470</y4>
+            <x5>203</x5>
+            <y5>474</y5>
+            <x6>292</x6>
+            <y6>549</y6>
+            <x7>323</x7>
+            <y7>542</y7>
+            <x8>275</x8>
+            <y8>494</y8>
+            <x9>375</x9>
+            <y9>486</y9>
+            <x10>404</x10>
+            <y10>451</y10>
+            <x11>341</x11>
+            <y11>16</y11>
+            <x12>65</x12>
+            <y12>22</y12>
+        </polygon>
+    </object>
+</annotation>

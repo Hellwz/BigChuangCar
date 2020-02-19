@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_6469.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>637</width>
+        <height>866</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>剩饭剩菜</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>5</xmin>
+            <ymin>9</ymin>
+            <xmax>628</xmax>
+            <ymax>845</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>鱼骨</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>74</xmin>
+            <ymin>60</ymin>
+            <xmax>546</xmax>
+            <ymax>845</ymax>
+        </bndbox>
+    </object>
+</annotation>

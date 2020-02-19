@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_5537.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>517</width>
+        <height>1024</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>菜叶菜根</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <polygon>
+            <x1>209</x1>
+            <y1>386</y1>
+            <x2>291</x2>
+            <y2>451</y2>
+            <x3>307</x3>
+            <y3>420</y3>
+            <x4>351</x4>
+            <y4>422</y4>
+            <x5>336</x5>
+            <y5>342</y5>
+            <x6>252</x6>
+            <y6>297</y6>
+            <x7>167</x7>
+            <y7>301</y7>
+            <x8>150</x8>
+            <y8>337</y8>
+            <x9>209</x9>
+            <y9>386</y9>
+        </polygon>
+    </object>
+</annotation>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_18949.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>500</width>
+        <height>177</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>软膏</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <polygon>
+            <x1>43</x1>
+            <y1>114</y1>
+            <x2>98</x2>
+            <y2>88</y2>
+            <x3>105</x3>
+            <y3>72</y3>
+            <x4>283</x4>
+            <y4>1</y4>
+            <x5>498</x5>
+            <y5>1</y5>
+            <x6>495</x6>
+            <y6>7</y6>
+            <x7>134</x7>
+            <y7>148</y7>
+            <x8>121</x8>
+            <y8>141</y8>
+            <x9>57</x9>
+            <y9>160</y9>
+            <x10>43</x10>
+            <y10>114</y10>
+        </polygon>
+    </object>
+</annotation>

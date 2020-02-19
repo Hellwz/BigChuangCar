@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_14804.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>576</width>
+        <height>1024</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>砧板</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <polygon>
+            <x1>171</x1>
+            <y1>5</y1>
+            <x2>5</x2>
+            <y2>1024</y2>
+            <x3>572</x3>
+            <y3>1024</y3>
+            <x4>576</x4>
+            <y4>5</y4>
+            <x5>171</x5>
+            <y5>5</y5>
+        </polygon>
+    </object>
+</annotation>

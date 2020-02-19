@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_5862.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>640</width>
+        <height>403</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>蛋壳</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>237</xmin>
+            <ymin>115</ymin>
+            <xmax>345</xmax>
+            <ymax>242</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>蛋壳</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>341</xmin>
+            <ymin>114</ymin>
+            <xmax>444</xmax>
+            <ymax>235</ymax>
+        </bndbox>
+    </object>
+</annotation>

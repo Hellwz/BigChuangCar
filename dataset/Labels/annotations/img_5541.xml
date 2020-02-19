@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_5541.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>767</width>
+        <height>1024</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>旧衣服</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>591</xmin>
+            <ymin>93</ymin>
+            <xmax>721</xmax>
+            <ymax>267</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>菜叶菜根</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>191</xmin>
+            <ymin>3</ymin>
+            <xmax>626</xmax>
+            <ymax>1024</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_19062.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>225</width>
+        <height>440</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>软膏</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <polygon>
+            <x1>88</x1>
+            <y1>22</y1>
+            <x2>111</x2>
+            <y2>303</y2>
+            <x3>133</x3>
+            <y3>321</y3>
+            <x4>139</x4>
+            <y4>353</y4>
+            <x5>145</x5>
+            <y5>407</y5>
+            <x6>184</x6>
+            <y6>407</y6>
+            <x7>184</x7>
+            <y7>352</y7>
+            <x8>189</x8>
+            <y8>314</y8>
+            <x9>206</x9>
+            <y9>308</y9>
+            <x10>217</x10>
+            <y10>25</y10>
+            <x11>88</x11>
+            <y11>22</y11>
+        </polygon>
+    </object>
+</annotation>

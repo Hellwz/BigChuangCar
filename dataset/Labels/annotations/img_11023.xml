@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_11023.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>500</width>
+        <height>375</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>旧衣服</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <polygon>
+            <x1>73</x1>
+            <y1>2</y1>
+            <x2>62</x2>
+            <y2>14</y2>
+            <x3>2</x3>
+            <y3>59</y3>
+            <x4>3</x4>
+            <y4>230</y4>
+            <x5>6</x5>
+            <y5>243</y5>
+            <x6>21</x6>
+            <y6>248</y6>
+            <x7>0</x7>
+            <y7>333</y7>
+            <x8>1</x8>
+            <y8>373</y8>
+            <x9>499</x9>
+            <y9>374</y9>
+            <x10>499</x10>
+            <y10>3</y10>
+            <x11>73</x11>
+            <y11>2</y11>
+        </polygon>
+    </object>
+</annotation>

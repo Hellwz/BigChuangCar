@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_5033.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1024</width>
+        <height>768</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>水果果皮</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>508</xmin>
+            <ymin>109</ymin>
+            <xmax>903</xmax>
+            <ymax>520</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>水果果肉</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>150</xmin>
+            <ymin>162</ymin>
+            <xmax>553</xmax>
+            <ymax>571</ymax>
+        </bndbox>
+    </object>
+</annotation>

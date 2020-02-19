@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_15213.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>500</width>
+        <height>667</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>纸板箱</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <polygon>
+            <x1>43</x1>
+            <y1>124</y1>
+            <x2>19</x2>
+            <y2>591</y2>
+            <x3>496</x3>
+            <y3>574</y3>
+            <x4>466</x4>
+            <y4>128</y4>
+            <x5>43</x5>
+            <y5>124</y5>
+        </polygon>
+    </object>
+</annotation>

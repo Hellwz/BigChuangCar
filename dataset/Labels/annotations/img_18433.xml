@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_18433.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>768</width>
+        <height>1024</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>干电池</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>148</xmin>
+            <ymin>323</ymin>
+            <xmax>426</xmax>
+            <ymax>868</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>干电池</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>422</xmin>
+            <ymin>273</ymin>
+            <xmax>751</xmax>
+            <ymax>883</ymax>
+        </bndbox>
+    </object>
+</annotation>

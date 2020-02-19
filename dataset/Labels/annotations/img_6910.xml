@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_6910.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>750</width>
+        <height>1000</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>干电池</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <polygon>
+            <x1>263</x1>
+            <y1>279</y1>
+            <x2>276</x2>
+            <y2>486</y2>
+            <x3>524</x3>
+            <y3>489</y3>
+            <x4>530</x4>
+            <y4>447</y4>
+            <x5>524</x5>
+            <y5>423</y5>
+            <x6>529</x6>
+            <y6>393</y6>
+            <x7>529</x7>
+            <y7>353</y7>
+            <x8>526</x8>
+            <y8>296</y8>
+            <x9>526</x9>
+            <y9>276</y9>
+            <x10>263</x10>
+            <y10>279</y10>
+        </polygon>
+    </object>
+</annotation>

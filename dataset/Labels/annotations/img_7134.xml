@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_7134.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>387</width>
+        <height>368</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>充电宝</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <polygon>
+            <x1>6</x1>
+            <y1>246</y1>
+            <x2>219</x2>
+            <y2>137</y2>
+            <x3>297</x3>
+            <y3>270</y3>
+            <x4>135</x4>
+            <y4>362</y4>
+            <x5>3</x5>
+            <y5>359</y5>
+            <x6>6</x6>
+            <y6>246</y6>
+        </polygon>
+    </object>
+</annotation>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_1250.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>710</width>
+        <height>674</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>牙签</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <polygon>
+            <x1>117</x1>
+            <y1>5</y1>
+            <x2>498</x2>
+            <y2>406</y2>
+            <x3>667</x3>
+            <y3>560</y3>
+            <x4>590</x4>
+            <y4>432</y4>
+            <x5>187</x5>
+            <y5>1</y5>
+            <x6>128</x6>
+            <y6>1</y6>
+            <x7>117</x7>
+            <y7>5</y7>
+        </polygon>
+    </object>
+</annotation>

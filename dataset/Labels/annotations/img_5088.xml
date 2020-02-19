@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_5088.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>768</width>
+        <height>1024</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>剩饭剩菜</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <polygon>
+            <x1>13</x1>
+            <y1>370</y1>
+            <x2>91</x2>
+            <y2>331</y2>
+            <x3>209</x3>
+            <y3>297</y3>
+            <x4>499</x4>
+            <y4>316</y4>
+            <x5>601</x5>
+            <y5>358</y5>
+            <x6>694</x6>
+            <y6>422</y6>
+            <x7>763</x7>
+            <y7>485</y7>
+            <x8>768</x8>
+            <y8>1024</y8>
+            <x9>5</x9>
+            <y9>1024</y9>
+            <x10>13</x10>
+            <y10>370</y10>
+        </polygon>
+    </object>
+</annotation>

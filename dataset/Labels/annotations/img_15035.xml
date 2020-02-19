@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_15035.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>500</width>
+        <height>375</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>纸板箱</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <polygon>
+            <x1>39</x1>
+            <y1>49</y1>
+            <x2>76</x2>
+            <y2>281</y2>
+            <x3>292</x3>
+            <y3>374</y3>
+            <x4>371</x4>
+            <y4>252</y4>
+            <x5>386</x5>
+            <y5>47</y5>
+            <x6>307</x6>
+            <y6>8</y6>
+            <x7>39</x7>
+            <y7>49</y7>
+        </polygon>
+    </object>
+</annotation>

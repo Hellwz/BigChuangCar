@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_11934.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>400</width>
+        <height>299</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>毛绒玩具</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <polygon>
+            <x1>396</x1>
+            <y1>3</y1>
+            <x2>387</x2>
+            <y2>17</y2>
+            <x3>373</x3>
+            <y3>24</y3>
+            <x4>356</x4>
+            <y4>36</y4>
+            <x5>340</x5>
+            <y5>77</y5>
+            <x6>399</x6>
+            <y6>100</y6>
+            <x7>396</x7>
+            <y7>3</y7>
+        </polygon>
+    </object>
+</annotation>

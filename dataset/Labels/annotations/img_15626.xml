@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_15626.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>192</width>
+        <height>409</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>酒瓶</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <polygon>
+            <x1>72</x1>
+            <y1>9</y1>
+            <x2>72</x2>
+            <y2>119</y2>
+            <x3>68</x3>
+            <y3>139</y3>
+            <x4>51</x4>
+            <y4>160</y4>
+            <x5>46</x5>
+            <y5>404</y5>
+            <x6>144</x6>
+            <y6>405</y6>
+            <x7>141</x7>
+            <y7>169</y7>
+            <x8>137</x8>
+            <y8>155</y8>
+            <x9>121</x9>
+            <y9>134</y9>
+            <x10>118</x10>
+            <y10>5</y10>
+            <x11>94</x11>
+            <y11>2</y11>
+            <x12>72</x12>
+            <y12>9</y12>
+        </polygon>
+    </object>
+</annotation>

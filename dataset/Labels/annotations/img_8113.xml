@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_8113.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>799</width>
+        <height>891</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>化妆品瓶</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <polygon>
+            <x1>336</x1>
+            <y1>215</y1>
+            <x2>353</x2>
+            <y2>691</y2>
+            <x3>375</x3>
+            <y3>703</y3>
+            <x4>511</x4>
+            <y4>694</y4>
+            <x5>502</x5>
+            <y5>199</y5>
+            <x6>457</x6>
+            <y6>188</y6>
+            <x7>425</x7>
+            <y7>186</y7>
+            <x8>385</x8>
+            <y8>186</y8>
+            <x9>358</x9>
+            <y9>195</y9>
+            <x10>336</x10>
+            <y10>215</y10>
+        </polygon>
+    </object>
+</annotation>

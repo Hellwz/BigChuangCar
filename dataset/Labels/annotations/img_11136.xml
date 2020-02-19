@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_11136.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>442</width>
+        <height>596</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>旧衣服</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <polygon>
+            <x1>4</x1>
+            <y1>3</y1>
+            <x2>20</x2>
+            <y2>17</y2>
+            <x3>18</x3>
+            <y3>141</y3>
+            <x4>21</x4>
+            <y4>205</y4>
+            <x5>31</x5>
+            <y5>222</y5>
+            <x6>28</x6>
+            <y6>256</y6>
+            <x7>29</x7>
+            <y7>492</y7>
+            <x8>39</x8>
+            <y8>564</y8>
+            <x9>48</x9>
+            <y9>589</y9>
+            <x10>440</x10>
+            <y10>587</y10>
+            <x11>437</x11>
+            <y11>0</y11>
+            <x12>4</x12>
+            <y12>3</y12>
+        </polygon>
+    </object>
+</annotation>

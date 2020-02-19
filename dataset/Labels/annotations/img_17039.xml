@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_17039.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>306</width>
+        <height>388</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>锅</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <polygon>
+            <x1>70</x1>
+            <y1>112</y1>
+            <x2>142</x2>
+            <y2>89</y2>
+            <x3>204</x3>
+            <y3>69</y3>
+            <x4>303</x4>
+            <y4>51</y4>
+            <x5>304</x5>
+            <y5>387</y5>
+            <x6>2</x6>
+            <y6>386</y6>
+            <x7>4</x7>
+            <y7>170</y7>
+            <x8>70</x8>
+            <y8>112</y8>
+        </polygon>
+    </object>
+</annotation>

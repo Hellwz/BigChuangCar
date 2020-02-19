@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_8053.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>209</width>
+        <height>520</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>化妆品瓶</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <polygon>
+            <x1>14</x1>
+            <y1>111</y1>
+            <x2>195</x2>
+            <y2>106</y2>
+            <x3>198</x3>
+            <y3>126</y3>
+            <x4>172</x4>
+            <y4>257</y4>
+            <x5>169</x5>
+            <y5>383</y5>
+            <x6>163</x6>
+            <y6>403</y6>
+            <x7>163</x7>
+            <y7>487</y7>
+            <x8>55</x8>
+            <y8>487</y8>
+            <x9>50</x9>
+            <y9>402</y9>
+            <x10>45</x10>
+            <y10>378</y10>
+            <x11>45</x11>
+            <y11>297</y11>
+            <x12>14</x12>
+            <y12>111</y12>
+        </polygon>
+    </object>
+</annotation>

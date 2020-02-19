@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_17816.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>500</width>
+        <height>775</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>食用油桶</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <polygon>
+            <x1>190</x1>
+            <y1>36</y1>
+            <x2>190</x2>
+            <y2>101</y2>
+            <x3>54</x3>
+            <y3>260</y3>
+            <x4>79</x4>
+            <y4>680</y4>
+            <x5>133</x5>
+            <y5>746</y5>
+            <x6>361</x6>
+            <y6>749</y6>
+            <x7>389</x7>
+            <y7>706</y7>
+            <x8>441</x8>
+            <y8>277</y8>
+            <x9>320</x9>
+            <y9>113</y9>
+            <x10>315</x10>
+            <y10>33</y10>
+            <x11>190</x11>
+            <y11>36</y11>
+        </polygon>
+    </object>
+</annotation>

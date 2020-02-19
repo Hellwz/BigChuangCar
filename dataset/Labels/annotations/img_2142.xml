@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>Images</folder>
+    <filename>img_2142.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>500</width>
+        <height>344</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>竹筷</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <polygon>
+            <x1>195</x1>
+            <y1>3</y1>
+            <x2>172</x2>
+            <y2>338</y2>
+            <x3>297</x3>
+            <y3>336</y3>
+            <x4>315</x4>
+            <y4>5</y4>
+            <x5>195</x5>
+            <y5>3</y5>
+        </polygon>
+    </object>
+</annotation>
